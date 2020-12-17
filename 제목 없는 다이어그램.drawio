@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T07:11:56.590Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="riBnSFYXQtrd5yyW2CwU" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T07:12:16.442Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9M5h0qh04RZltM9VAs9Z" version="14.0.4" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1664" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-66" value="표면금리" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-64">
           <mxGeometry x="31" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1fRgIm-5sWAIXZUn4M2q-283" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;CHAR(12)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-64">
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-283" value="NUMBER(11,10)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-64">
           <mxGeometry x="151" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-67" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-15">
@@ -302,7 +302,7 @@
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-100" value="거래수량" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-98">
           <mxGeometry x="28" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1fRgIm-5sWAIXZUn4M2q-296" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;CHAR(12)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-98">
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-296" value="&lt;span style=&quot;font-size: 12px&quot;&gt;NUMBER(10)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-98">
           <mxGeometry x="148" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-101" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-85">
@@ -560,7 +560,7 @@
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-195" value="이자계산금리" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-193">
           <mxGeometry x="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1fRgIm-5sWAIXZUn4M2q-308" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;CHAR(12)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-193">
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-308" value="&lt;span style=&quot;font-size: 12px&quot;&gt;NUMBER(11,10)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-193">
           <mxGeometry x="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-196" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-165">
