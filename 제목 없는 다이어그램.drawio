@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T06:04:19.165Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PA58cCPGMMkoXTi7hOYc" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T06:06:04.404Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jiUYNyVwEfQPylfipUeh" version="14.0.4" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1664" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -29,9 +29,6 @@
               <mxPoint x="740" y="70" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2ed32ef02a7f4228-12" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: rgb(228 , 228 , 228) ; padding: 2px ; font-size: 14px&quot;&gt;&lt;b&gt;영업일관리&lt;/b&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 14px&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;font-size: 14px&quot;&gt;&lt;tr style=&quot;font-size: 14px&quot;&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;PK&lt;/td&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 14px&quot;&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;FK1&lt;/td&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;foreignKey&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 14px&quot;&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;fieldname&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 14px&quot;&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;fieldname&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 14px&quot;&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;fieldname&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 14px&quot;&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;fieldname&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="870" y="649" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-3" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1fRgIm-5sWAIXZUn4M2q-131" target="1fRgIm-5sWAIXZUn4M2q-169">
           <mxGeometry relative="1" as="geometry">
@@ -461,6 +458,45 @@
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-204" value="결제금액" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-202">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-205" value="&lt;b style=&quot;text-align: left ; font-size: 14px&quot;&gt;영업일관리&lt;/b&gt;" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fontSize=14;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=1;shadow=0;sketch=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="880" y="650" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-206" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-205">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-207" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-206">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-208" value="&lt;table cellpadding=&quot;2&quot; cellspacing=&quot;0&quot; style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 14px ; width: 180px&quot;&gt;&lt;tbody style=&quot;font-size: 14px&quot;&gt;&lt;tr style=&quot;font-size: 14px&quot;&gt;&lt;td style=&quot;font-size: 14px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;font face=&quot;verdana&quot;&gt;기준일자&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-206">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-209" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-205">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-210" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-209">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-211" value="영업일자" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-209">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-212" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-205">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-213" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-212">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-214" value="전영업일자" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-212">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-215" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-205">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-216" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-215">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fRgIm-5sWAIXZUn4M2q-217" value="익영업일자" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=14;" vertex="1" parent="1fRgIm-5sWAIXZUn4M2q-215">
           <mxGeometry x="40" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
