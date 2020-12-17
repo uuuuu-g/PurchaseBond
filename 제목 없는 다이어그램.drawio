@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T11:43:27.188Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AySjlgSY1loF_X1meIE8" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T11:43:37.715Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="raHRj0sDC1nLU8Qu_f_d" version="14.0.4" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -648,7 +648,7 @@
           <mxGeometry x="160" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-205" value="&lt;b style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;영업일관리&lt;/font&gt;&lt;/b&gt;" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fontSize=12;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=1;shadow=0;sketch=0;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="785" y="560" width="270" height="130" as="geometry" />
+          <mxGeometry x="780" y="460" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="1fRgIm-5sWAIXZUn4M2q-206" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="1fRgIm-5sWAIXZUn4M2q-205" vertex="1">
           <mxGeometry y="30" width="270" height="25" as="geometry" />
