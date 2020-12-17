@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T12:03:45.221Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ke9RwhV4F8dD1fQJ1fAE" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T12:42:56.931Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dAbWAy5HMrDuFXmCv-CI" version="14.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2529" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C4_sqNWEf8UmzU_zfhF8-0" target="C4_sqNWEf8UmzU_zfhF8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-0" value="채권 매입" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-0" value="채권 매입" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-840" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C4_sqNWEf8UmzU_zfhF8-2" target="C4_sqNWEf8UmzU_zfhF8-4">
@@ -45,7 +45,7 @@
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-6" value="채권 매입 거래 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-840" y="515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-7" value="채권 매입 잔고 생성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-7" value="채권 매입 잔고 생성" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-840" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="C4_sqNWEf8UmzU_zfhF8-10">
@@ -67,67 +67,67 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-8" value="채권 매입&lt;br&gt;Cashflow 생성" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-8" value="채권 매입&lt;br&gt;Cashflow 생성" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-644" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C4_sqNWEf8UmzU_zfhF8-9" target="C4_sqNWEf8UmzU_zfhF8-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-9" value="거래일자 != 차기이자지급일자" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-9" value="거래일자 != 직전이자지급일자" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-440" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-10" value="원금&lt;br&gt;Cashflow 생성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-10" value="원금&lt;br&gt;Cashflow 생성" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-11" value="경과 이자&lt;br&gt;Cashflow 생성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-11" value="경과 이자&lt;br&gt;Cashflow 생성" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-12" value="&lt;span&gt;이자&lt;/span&gt;&lt;br&gt;&lt;span&gt;Cashflow 생성&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-12" value="&lt;span&gt;이자&lt;/span&gt;&lt;br&gt;&lt;span&gt;Cashflow 생성&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-29" value="매입 채권 종목코드" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fillColor=#f8cecc;fontSize=11;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1110" y="157.5" width="230" height="85" as="geometry" />
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-29" value="매입 채권 종목코드" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fillColor=#fff2cc;fontSize=11;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1110" y="165" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=none;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-29">
-          <mxGeometry y="30" width="230" height="25" as="geometry" />
+          <mxGeometry y="30" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-31" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; text-align: left&quot;&gt;종목코드&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-30">
-          <mxGeometry width="70" height="25" as="geometry" />
+          <mxGeometry width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-32" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;KR103501G869&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-30">
-          <mxGeometry x="70" width="160" height="25" as="geometry" />
+          <mxGeometry x="70" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-29">
-          <mxGeometry y="55" width="230" height="30" as="geometry" />
+          <mxGeometry y="50" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-34" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; text-align: left&quot;&gt;종목명&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-33">
-          <mxGeometry width="70" height="30" as="geometry" />
+          <mxGeometry width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-35" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;국고채권 02250-2106(18-3)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-33">
-          <mxGeometry x="70" width="160" height="30" as="geometry" />
+          <mxGeometry x="70" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-39" value="매입 거래 정보" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fillColor=#f8cecc;fontSize=11;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1110" y="430" width="230" height="85" as="geometry" />
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-39" value="매입 거래 정보 입력" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fillColor=#fff2cc;fontSize=11;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1110" y="395" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-40" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=none;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-39">
-          <mxGeometry y="30" width="230" height="25" as="geometry" />
+          <mxGeometry y="30" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-41" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; text-align: left&quot;&gt;종목코드&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-40">
-          <mxGeometry width="70" height="25" as="geometry" />
+          <mxGeometry width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-42" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;KR103501G869&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-40">
-          <mxGeometry x="70" width="160" height="25" as="geometry" />
+          <mxGeometry x="70" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-43" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-39">
-          <mxGeometry y="55" width="230" height="30" as="geometry" />
+          <mxGeometry y="50" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-44" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; text-align: left&quot;&gt;종목명&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-43">
-          <mxGeometry width="70" height="30" as="geometry" />
+          <mxGeometry width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-45" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;국고채권 02250-2106(18-3)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-43">
-          <mxGeometry x="70" width="160" height="30" as="geometry" />
+          <mxGeometry x="70" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C4_sqNWEf8UmzU_zfhF8-46" value="선택 채권 발행정보" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fillColor=#f8cecc;fontSize=11;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C4_sqNWEf8UmzU_zfhF8-46" value="선택 채권 발행정보" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;fillColor=#fff2cc;fontSize=11;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-480" y="50" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="C4_sqNWEf8UmzU_zfhF8-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=none;" vertex="1" parent="C4_sqNWEf8UmzU_zfhF8-46">
